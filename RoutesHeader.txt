@@ -1,0 +1,1 @@
+Number, towords (coloum 4 on stop page) - prefix with *, stops and offset for time
