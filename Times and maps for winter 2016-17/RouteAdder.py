@@ -86,6 +86,10 @@ while true:
         towordsList.append("Aeuja Post")
     elif towords=="Nutlihuschi":
         towordsList.append("Nutlihuschi")
+    elif towords=="Dorf":
+        towordsList.append("Dorf")
+    elif towords=="Bad":
+        towordsList.append("Bad")
     else:
         print("Erorr, stop not found")
     print(towordsList)
@@ -139,6 +143,10 @@ while time!="end":
                         towordsList.append("Aeuja Post")
                     elif towords=="Nutlihuschi":
                         towordsList.append("Nutlihuschi")
+                    elif towords=="Dorf":
+                        towordsList.append("Dorf")
+                    elif towords=="Bad":
+                        towordsList.append("Bad")
                     else:
                         print("Erorr, stop not found")
                     print(towordsList)
