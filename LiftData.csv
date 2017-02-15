@@ -1,0 +1,8 @@
+Area,Name,Type,Opening,Closing,Ride duration,Length,Capacity,Notes
+Madrisa,Madrisa-Land,Telecord,08:30,16:15,null,null,null,
+Madrisa,Schaffurggli,TSD6B,08:30,16:15,null,1816,2600,
+Madrisa,Albeina*I,TKE1,08:30,16:15,4,463,450,
+Madrisa,Albeina*II,TKE2,08:30,16:15,4,515,790,
+Madrisa,Zugenhuttli,TSF2,08:45,16:15,5,762,900,
+Madrisa,Madrisa,TKE2,08:45,16:00,6,1298,800,
+Madrisa,Madrisabahn,TCD4,08:15,15:45,11,2144,800,
