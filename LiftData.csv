@@ -1,4 +1,6 @@
 Area,Name,Type,Opening,Closing,Ride duration,Length,Capacity,Notes
+Parsenn,Gotschnabahn*1,TPH,08:00,16:30,6,1965,1200,Departures from Klosters & Gotschnaboden every 15 minuets at xx:00 & xx:15 & xx:30 & xx:45. And aditonal deparuture takes place at 17:00, decending only.
+Parsenn,Gotschnabahn*2,TPH,08:25,16:55,4,971,1400,Departures from Gotschnaboden & Gotschnagrat every 15 minuets at xx:08 & xx:23 & xx:38 & xx:53. And aditonal deparuture takes place at 16:52, decending only.
 Madrisa,Madrisa-Land,Telecord,08:30,16:15,null,null,null,
 Madrisa,Schaffurggli,TSD6B,08:30,16:15,null,1816,2600,
 Madrisa,Albeina*I,TKE1,08:30,16:15,4,463,450,
